@@ -60,4 +60,9 @@
 
 ## Conclusion🔽
 <p>The analysis provided valuable insights into customer behavior and sales trends during the Diwali period. These insights can help businesses tailor their marketing strategies and product offerings to maximize sales in future Diwali seasons.</p>
+
+## License➡️
+This project is licensed under the [MIT License](https://github.com/Faisal-khann/Diwali_Sales_Analysis?tab=MIT-1-ov-file)
+2024 Faisal Khan
+<p>If you like this project don’t forget to 🌟 the repository and Clone this repository.</p>
    
